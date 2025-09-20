@@ -2,7 +2,7 @@
 
 A modern, responsive cryptocurrency tracking and analysis platform built with React. CryptoNex provides real-time cryptocurrency data, price charts, currency conversion, and the latest crypto news in an elegant and user-friendly interface.
 
-![CryptoNex Banner](./client/public/Landing.png)
+![CryptoNex Banner](img1.png)
 
 ## 🌟 Features
 
@@ -188,43 +188,20 @@ npm test
 - **Bundle Size**: Optimized with code splitting
 - **Load Time**: < 3 seconds on standard connections
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Youssef Khalfaoui**
 - GitHub: [@Youssef-Khalfaoui](https://github.com/Youssef-Khalfaoui)
 - Project Link: [https://github.com/Youssef-Khalfaoui/Cryptonex](https://github.com/Youssef-Khalfaoui/Cryptonex)
-
-## 🙏 Acknowledgments
-
-- [CoinGecko](https://www.coingecko.com/) for cryptocurrency data
-- [ExchangeRate-API](https://exchangerate-api.com/) for currency exchange rates
-- [React](https://reactjs.org/) team for the amazing framework
-- [Chart.js](https://www.chartjs.org/) for interactive charts
-- [Styled Components](https://styled-components.com/) for CSS-in-JS styling
-
-## 🔮 Future Enhancements
-
-- [ ] Portfolio tracking functionality
-- [ ] Price alerts and notifications
-- [ ] Advanced technical analysis tools
-- [ ] User authentication and profiles
-- [ ] Watchlist management
-- [ ] Social features and community integration
-- [ ] Mobile app development
-- [ ] Real-time WebSocket data updates
-
+![CryptoNex Banner](img2.png)
+![CryptoNex Banner](img3.png)
+![CryptoNex Banner](img4.png)
+![CryptoNex Banner](img5.png)
+![CryptoNex Banner](img6.png)
+![CryptoNex Banner](img7.png)
+![CryptoNex Banner](img8.png)
+![CryptoNex Banner](img9.png)
 ---
 
 **⭐ Don't forget to star this repository if you found it helpful!**
